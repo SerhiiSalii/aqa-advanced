@@ -6,10 +6,10 @@ console.log(`The area of a circle with radius ${radiusOfCircle} is ${areaOfCircl
 
 //task4.2
 
-const lenghtOfRectangle = 13;
+const lengthOfRectangle = 13;
 const widthOfRectangle = 13;
-const areaOfRectangle = lenghtOfRectangle * widthOfRectangle;
-console.log(`The area of a rectangle with length ${lenghtOfRectangle} and width ${widthOfRectangle} is ${areaOfRectangle.toFixed(2)}`);
+const areaOfRectangle = lengthOfRectangle * widthOfRectangle;
+console.log(`The area of a rectangle with length ${lengthOfRectangle} and width ${widthOfRectangle} is ${areaOfRectangle.toFixed(2)}`);
 
 //task4.3
 const radiusOfCylinder = 7;

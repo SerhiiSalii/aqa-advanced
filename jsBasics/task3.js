@@ -1,4 +1,4 @@
-let userAge = 17;
+const userAge = 17;
 const ageChecker = userAge >= 18;
 // const ageChecker = userAge >= 18 ? "User is an adult." : "User is a minor.";
 

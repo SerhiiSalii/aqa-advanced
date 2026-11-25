@@ -2,8 +2,7 @@ const strExample = "Hello, World!";
 const numExample = 1;
 const booleanExample = true;
 const nullExample = null;
-// const undefinedExample = undefined;
-let undefinedExample;
+const undefinedExample = undefined;
 
 console.log(strExample);
 console.log(numExample);
